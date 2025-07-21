@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 ## 📫Connect with me:
-| 🌐 *Socials* | [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/santhanika-kumaravel) |
+| 🌐 *Socials* | [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/santhanika-kumaravel-935994280) |
 |---------------|----------------------------------------------------------------------------------------------------------------------------------|
 
 
