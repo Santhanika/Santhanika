@@ -10,6 +10,15 @@ Here are some ideas to get you started:
 - 📫 Email: santhanikak@gmail.com
 - ⚡ The “Hello, World!” program is considered a rite of passage for every programmer!!!
 -->
+
+## About me
+Here are some ideas to get you started:
+- 🔭 I’m currently working on Python,Django,HTML&CSS
+- 🌱 I’m currently learning  Java
+- 📫 Email: santhanikak@gmail.com
+- ⚡ The “Hello, World!” program is considered a rite of passage for every programmer!!!
+
+  
 ## 🚀Technology and Tools:
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python)
 ![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=Django)
