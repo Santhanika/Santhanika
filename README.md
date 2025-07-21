@@ -1,15 +1,6 @@
 ## Hi Santhanika Kumaravel here 👋
 
 A strong minded person with good commmunication skills and open to work with positive attitude. Eager to start my career where I can apply my knowledge and  develop practical skills. Open to learn new technology with good adaptabililty.I’m a Passionate student at PSGR Krishnammal college currently doing my M.Sc Computer science final year
-<!--
-**Santhanika/Santhanika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-## About me
-Here are some ideas to get you started:
-- 🔭 I’m currently working on Python,Django,HTML&CSS
-- 🌱 I’m currently learning  Java
-- 📫 Email: santhanikak@gmail.com
-- ⚡ The “Hello, World!” program is considered a rite of passage for every programmer!!!
--->
 
 ## About me
 Here are some ideas to get you started:
@@ -25,6 +16,8 @@ Here are some ideas to get you started:
 ![HTML](https://img.shields.io/badge/HTML-yellow?style=for-the-badge&logo=HTML)
 ![CSS](https://img.shields.io/badge/CSS-orange?style=for-the-badge&logo=CSS)
 ![Java](https://img.shields.io/badge/Java-purple?style=for-the-badge&logo=JAVA)
+![VSCODE](https://img.shields.io/badge/vscode-red?style=for-the-badge&logo=vscode)
+![Eclipse](https://img.shields.io/badge/Eclipse-grey?style=for-the-badge&logo=eclipse)
 
 
 ## 📫Connect with me:
